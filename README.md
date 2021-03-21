@@ -83,4 +83,5 @@ using init:
 ### Comparison of branches
 **`git log`** view your commits history  
 **`git log --oneline`** view all of your logs   
+**`git log --stat --abbrev-commit`** will list you commits logs with abriviation of changes   
 **`git diff [the branch name that you wanna to check diffrences] [target branch]`** see diffrences with the target branch  
