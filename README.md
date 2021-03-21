@@ -42,7 +42,7 @@ using init:
 **`git branch -a`** will show all local and remote branches   
 **`git branch [newBranch]`** will create a new branch with out switching to it    
 **`git branch -d [branchName]`** will remove a branch    
-**`git push origin --delete [branchName]`** will rmeove a branch on remote repository    
+**`git push origin --delete [branchName]`** will remove a branch on remote repository    
 **`git checkout -b [newBranch]`** will create a branch and switch to it    
 **`git checkout -b [branchName] origin/[remoteBranchName]`** creates a new branch and clones the remote brnahc into created branch and switches to it    
 **`git checkout -`** switches to the previous branch    
